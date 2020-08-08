@@ -70,5 +70,14 @@
 	},
 	"bugs": {
 		"url": "https://github.com/lazharichir/interpolatr/issues"
-	}
+	},
+	"keywords": [
+		"map",
+		"string interpolation",
+		"interpolation",
+		"deep",
+		"nested",
+		"pattern matching",
+		"deep map"
+	]
 }
