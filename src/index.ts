@@ -1,3 +1,6 @@
 export * from "./execution"
+export * from "./helpers/DotNotation"
+export * from "./helpers/replaceAsync"
+export * from "./interpolation"
 export * from "./mapper"
 export * from "./model"
